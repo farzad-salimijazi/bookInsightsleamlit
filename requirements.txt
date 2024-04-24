@@ -1,0 +1,7 @@
+numpy==1.23.5
+pandas==2.2.2
+plotly==5.21.0
+Requests==2.31.0
+streamlit==1.32.2
+streamlit_lottie==0.0.5
+snowflake-connector-python
